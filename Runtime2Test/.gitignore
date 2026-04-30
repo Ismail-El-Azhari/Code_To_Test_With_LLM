@@ -1,0 +1,13 @@
+**/target/
+/.idea/
+/.repo
+**/dependency-reduced-pom.xml
+**/.DS_Store
+.venv/
+.claude/settings.local.json
+.vscode/settings.json
+.vscode/*.local.json
+.DS_Store
+.vscode/
+diagrams/
+.github/
